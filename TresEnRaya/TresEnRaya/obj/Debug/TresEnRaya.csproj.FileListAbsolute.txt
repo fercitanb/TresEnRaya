@@ -1,0 +1,15 @@
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.pdb
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.AssemblyReference.cache
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Resultado.resources
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Tablero.resources
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Properties.Resources.resources
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.GenerateResource.cache
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.pdb
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.manifest
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.application
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe.manifest
+C:\Users\HUGO\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.application
